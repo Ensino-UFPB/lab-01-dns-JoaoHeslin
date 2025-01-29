@@ -1,0 +1,4 @@
+zone "joao_heslin.com" {
+    type master;
+    file "/etc/bind/db.joao_heslin.com";
+};
